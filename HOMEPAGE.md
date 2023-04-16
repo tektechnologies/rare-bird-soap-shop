@@ -1,4 +1,4 @@
-# rare-bird-soap-shop
+# HOME 
 
 project planning online store
 
@@ -7,4 +7,3 @@ project planning online store
 - [HOME PAGE](HOMEPAGE.md)
 - [CONTACT PAGE](CONTACTPAGE.md)
 - [SHOP PAGE](SHOPPAGE.md)
-
